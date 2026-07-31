@@ -17,7 +17,7 @@ env:
   ECS_CLUSTER: Ecs-demo
   ECS_SERVICE: my-ecs-service
   ECS_TASK_DEFINITION_FILE: taskdefinition.json
-  CONTAINER_NAME: react-mobile-app
+  CONTAINER_NAME: react-mobile-test-app
 
 
 jobs:
