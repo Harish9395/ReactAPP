@@ -28,7 +28,7 @@ jobs:
     env:
       AWS_REGION: us-east-2
       REGISTRY: ghcr.io
-      IMAGE_NAME: harish9395/react-mobile-app
+      IMAGE_NAME: harish9395/react-mobile-test-app
       IMAGE_TAG: ${{ github.sha }}
 
     steps:
